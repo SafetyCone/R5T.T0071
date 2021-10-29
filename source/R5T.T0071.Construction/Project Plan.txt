@@ -1,0 +1,3 @@
+R5T.T0071.Construction - Construction project for IWebHost and IWebHostOperator extension method bases..
+
+GOALS:
